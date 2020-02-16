@@ -1,13 +1,25 @@
+<<<<<<< HEAD
 Package: GHDI
 Type: Package
 Title: GHDI data
+=======
+Package: rtutorial
+Type: Package
+Title: What the Package Does (Title Case)
+>>>>>>> 355141aad08624ebca7f1e51100f807c8dd1204f
 Version: 0.1.0
 Author: Who wrote it
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
+<<<<<<< HEAD
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.0.2
 Imports: plotly
+=======
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+>>>>>>> 355141aad08624ebca7f1e51100f807c8dd1204f
